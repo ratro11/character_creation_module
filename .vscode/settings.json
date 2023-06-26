@@ -1,0 +1,6 @@
+{
+    "files.encoding": "windows1251",
+    "typescript.locale": "ru",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
